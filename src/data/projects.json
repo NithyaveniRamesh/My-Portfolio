@@ -1,0 +1,35 @@
+[
+  {
+    "title": " Electronic Store Management System",
+    "imageSrc": "projects/Project4.png",
+    "description": "The Management system works as a full web application with a perfect sync of UI and Database.",
+    "skills": ["HTML", "CSS", "Js", "Python", "MySQL", "Flask"],
+    "demo": "http://ec2-13-61-33-76.eu-north-1.compute.amazonaws.com/",
+    "source": "https://github.com/NithyaveniRamesh/Electronic-store-management-system"
+  },
+
+    {
+      "title": "Weather Web App",
+      "imageSrc": "projects/Project1.png",
+      "description": "This web application is a weather condition tracker that uses the Open Weather API to fetch the current weather data using the device's location. ",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://weather-app-website.pages.dev/",
+      "source": "https://github.com/NithyaveniRamesh/Js-project"
+    },
+    {
+      "title": "Book-Website",
+      "imageSrc": "projects/Project2.png",
+      "description": "This is a responsive and visually engaging book-themed website with dynamic layouts built using Bootstrap which has interactive interface. ",
+      "skills": ["HTML", "CSS", "Js", "Bootstrap"],
+      "demo": "https://thebookshop.pages.dev/",
+      "source": "https://github.com/NithyaveniRamesh/Bootstrap-Project"
+    },
+    {
+      "title": "To-Do List",
+      "imageSrc": "projects/Project3.png",
+      "description": "This web application is functional, practical and even more interactive with the UI components making this more user-friendly using React-Js.",
+      "skills": ["HTML", "CSS", "Js", "React js"],
+      "demo": "https://todolists-website-app.pages.dev/",
+      "source": "https://github.com/NithyaveniRamesh/React-js-project"
+    }
+  ]
